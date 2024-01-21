@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/package_mongo/__init__.py
+src/package_mongo/mongo_crud.py
+src/packagemongo.egg-info/PKG-INFO
+src/packagemongo.egg-info/SOURCES.txt
+src/packagemongo.egg-info/dependency_links.txt
+src/packagemongo.egg-info/requires.txt
+src/packagemongo.egg-info/top_level.txt
