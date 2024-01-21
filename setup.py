@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
     long_description = f.read()     
    
 
-__version__ = "0.0.1"   # make changes here
+__version__ = "0.0.2"   # make changes here
 REPO_NAME = "mongopkg"  # make changes here
 PKG_NAME= "packagemongo"  # make changes here
 AUTHOR_USER_NAME = "divyansh"
