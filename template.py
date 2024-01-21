@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-package_name = "Mongo_package"
+package_name = "Mongo_package"   # make changes here
 
 list_of_files = [
    ".github/workflows/ci.yaml",
